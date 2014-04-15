@@ -132,11 +132,11 @@ To review a response submitted by a student:
 
 #. Click **Courseware** and navigate to the component that contains the problem you want to review.
 
-#. Display the problem then click **Submission history** at the end of the page.
+#. Display the problem and then click **Submission History** below the problem.
 
-#. Enter the username for the student whose work you want to review and click **View History** at the end of the page.
+#. Enter the username for the student whose work you want to review, then click **View History** at the end of the page.
 
-Information about the response or responses provided by the student displays. 
+  Information about the response or responses provided by the student displays. 
 
 To close the Submission History Viewer, click on the browser page outside of the viewer.
 
