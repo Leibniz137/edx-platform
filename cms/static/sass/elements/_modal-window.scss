@@ -51,7 +51,9 @@
       }
     }
 
+    // TODO: need to sync up (alongside general editing mode) with xblocks.scss UI
     .modal-chin,
+    .xblock-actions,
     .modal-actions {
       padding: ($baseline*0.75) 2% ($baseline/2) 2%;
 
@@ -193,7 +195,8 @@
   .modal-window .editor-with-buttons {
     margin-bottom: ($baseline*3);
 
-    .modal-actions {
+    // TODO: need to sync up (alongside general editing mode) with xblocks.scss UI
+    .xblock-actions {
       background-color: $gray-l4;
       position: absolute;
       width: 100%;
